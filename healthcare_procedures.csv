@@ -1,0 +1,8 @@
+department,procedure_date,patient_id,cost
+Cardiology,2025-01-01,1001,5000
+Orthopedics,2025-01-02,1002,3000
+Cardiology,2025-01-03,1003,4500
+Neurology,2025-01-04,1004,7000
+Orthopedics,2025-01-05,1005,3200
+Emergency,2025-01-06,1006,6800
+Radiology,2025-01-07,1007,2100
