@@ -52,3 +52,9 @@ This type of analysis is commonly used in healthcare analytics to:
 - Data analysis and reporting
 - Healthcare analytics use cases
 - Analytical thinking tied to business decisions
+
+## Dashboard Visualization
+
+Below is a dashboard created using Ascend to visualize healthcare cost insights:
+
+![Healthcare Dashboard](E4F73C2F-0E3C-430C-BB1C-ADD3C5DF0545_1_201_a.jpeg)
